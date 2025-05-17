@@ -66,7 +66,6 @@ PRODUCT_COPY_FILES += \
     
 
 PRODUCT_PACKAGES += \
-    libfmjni \
     EngineerMode \
     ImsService
 
