@@ -63,6 +63,5 @@ PRODUCT_COPY_FILES += \
     
 
 PRODUCT_PACKAGES += \
-    EngineerMode \
-    ImsService
+    EngineerMode 
 
